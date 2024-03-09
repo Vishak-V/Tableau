@@ -2,7 +2,7 @@
 Tableau Dashboards
 <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
 <tableau-viz id="tableauViz"       
-  src='https://public.tableau.com/app/profile/vishak.vikranth/viz/ARMS_viz/Main1'>
+  src='https://public.tableau.com/views/ARMS_viz/Main1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link'>
 </tableau-viz>
 
 
